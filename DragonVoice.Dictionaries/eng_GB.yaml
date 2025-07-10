@@ -1,0 +1,177 @@
+%YAML 1.2
+---
+symbols:
+# Consonants
+  - {symbol: b, type: stop}
+  - {symbol: ch, type: affricate}
+  - {symbol: d, type: stop}
+  - {symbol: dh, type: fricative}
+  - {symbol: f, type: fricative}
+  - {symbol: g, type: stop}
+  - {symbol: hh, type: fricative}
+  - {symbol: jh, type: affricate}
+  - {symbol: k, type: stop}
+  - {symbol: l, type: liquid}
+  - {symbol: m, type: nasal}
+  - {symbol: n, type: nasal}
+  - {symbol: ng, type: nasal}
+  - {symbol: p, type: stop}
+  - {symbol: r, type: liquid}
+  - {symbol: s, type: fricative}
+  - {symbol: sh, type: fricative}
+  - {symbol: t, type: stop}
+  - {symbol: th, type: fricative}
+  - {symbol: v, type: fricative}
+  - {symbol: w, type: semivowel}
+  - {symbol: y, type: semivowel}
+  - {symbol: z, type: fricative}
+  - {symbol: zh, type: fricative}
+# Syllabic Consonants
+  - {symbol: el, type: vowel}
+  - {symbol: em, type: vowel}
+  - {symbol: en, type: vowel}
+# Vowels
+  - {symbol: aa, type: vowel}
+  - {symbol: ae, type: vowel}
+  - {symbol: ah, type: vowel}
+  - {symbol: ao, type: vowel}
+  - {symbol: aw, type: vowel}
+  - {symbol: ax, type: vowel}
+  - {symbol: ay, type: vowel}
+  - {symbol: eh, type: vowel}
+  - {symbol: er, type: vowel}
+  - {symbol: ex, type: vowel}
+  - {symbol: ey, type: vowel}
+  - {symbol: ih, type: vowel}
+  - {symbol: ix, type: vowel}
+  - {symbol: iy, type: vowel}
+  - {symbol: oh, type: vowel}
+  - {symbol: ow, type: vowel}
+  - {symbol: oy, type: vowel}
+  - {symbol: uh, type: vowel}
+  - {symbol: uw, type: vowel}
+  - {symbol: ux, type: vowel}
+
+entries:
+# A
+  - grapheme: a
+    phonemes: [ax]
+  - grapheme: A
+    phonemes: [ey]
+  - grapheme: abandon
+    phonemes: [ax, b, ae, n, d, ax, n]
+  - grapheme: abandons
+    phonemes: [ax, b, ae, n, d, ax, n, z]
+  - grapheme: abandoned
+    phonemes: [ax, b, ae, n, d, ax, n, d]
+  - grapheme: abandoning
+    phonemes: [ax, b, ae, n, d, ax, n, ih, ng]
+  - grapheme: ability
+    phonemes: [ax, b, ih, l, ax, t, iy]
+  - grapheme: abilities
+    phonemes: [ax, b, ih, l, ax, t, iy, z]
+  - grapheme: able
+    phonemes: [ey, b, el]
+  - grapheme: abolish
+    phonemes: [ax, b, oh, l, ih, sh]
+  - grapheme: abolishes
+    phonemes: [ax, b, oh, l, ih, sh, ih, z]
+  - grapheme: abolished
+    phonemes: [ax, b, oh, l, ih, sh, t]
+  - grapheme: abolishing
+    phonemes: [ax, b, oh, l, ih, sh, ih, ng]
+  - grapheme: abortion
+    phonemes: [ax, b, ao, sh, en]
+  - grapheme: about
+    phonemes: [ax, b, aw, t]
+  - grapheme: above
+    phonemes: [ax, b, ah, v]
+  - grapheme: abroad
+    phonemes: [ax, b, r, ao, d]
+  - grapheme: absence
+    phonemes: [ae, b, s, ax, n, s]
+  - grapheme: absent
+    phonemes: [ae, b, s, ax, n, t]
+  - grapheme: absolute
+    phonemes: [ae, b, s, ax, l, uw, t]
+  - grapheme: absolutely
+    phonemes: [ae, b, s, ax, l, uw, t, l, iy]
+  - grapheme: absorb
+    phonemes: [ax, b, z, ao, b]
+  - grapheme: absorbs
+    phonemes: [ax, b, z, ao, b, z]
+  - grapheme: absorbed
+    phonemes: [ax, b, z, ao, b, d]
+  - grapheme: absorbing
+    phonemes: [ax, b, z, ao, b, ih, ng]
+  - grapheme: abstract
+    phonemes: [ae, b, s, t, r, ae, k, t]
+  - grapheme: absurd
+    phonemes: [ax, b, s, er, d]
+  - grapheme: abundance
+    phonemes: [ax, b, ah, n, d, ax, n, s]
+  - grapheme: abuse
+    phonemes: [ax, b, y, uw, s]
+  - grapheme: abuse2
+    phonemes: [ax, b, y, uw, z]
+  - grapheme: abuses
+    phonemes: [ax, b, y, uw, z, ih, z]
+  - grapheme: abused
+    phonemes: [ax, b, y, uw, z, d]
+  - grapheme: abusing
+    phonemes: [ax, b, y, uw, z, ih, ng]
+  - grapheme: academic
+    phonemes: [ae, k, ax, d, eh, m, ih, k]
+  - grapheme: academy
+    phonemes: [ax, k, ae, d, ax, m, iy]
+  - grapheme: academies
+    phonemes: [ax, k, ae, d, ax, m, iy, z]
+  - grapheme: accelerate
+    phonemes: [ax, k, s, eh, l, ax, r, ey, t]
+  - grapheme: accelerates
+    phonemes: [ax, k, s, eh, l, ax, r, ey, t, s]
+  - grapheme: accelerated
+    phonemes: [ax, k, s, eh, l, ax, r, ey, t, ih, d]
+  - grapheme: accelerating
+    phonemes: [ax, k, s, eh, l, ax, r, ey, t, ih, ng]
+  - grapheme: accent
+    phonemes: [ae, k, s, eh, n, t]
+  - grapheme: accent2
+    phonemes: [ae, k, s, ax, n, t]
+  - grapheme: accept
+    phonemes: [ax, k, s, eh, p, t]
+  - grapheme: accepts
+    phonemes: [ax, k, s, eh, p, t, s]
+  - grapheme: accepted
+    phonemes: [ax, k, s, eh, p, t, ih, d]
+  - grapheme: accepting
+    phonemes: [ax, k, s, eh, p, t, ih, ng]
+  - grapheme: acceptable
+    phonemes: [ax, k, s, eh, p, t, ax, b, el]
+  - grapheme: acceptance
+    phonemes: [ax, k, s, eh, p, t, ax, n, s]
+  - grapheme: access
+    phonemes: [ae, k, s, eh, s]
+  - grapheme: accesses
+    phonemes: [ae, k, s, eh, s, ih, z]
+  - grapheme: accessed
+    phonemes: [ae, k, s, eh, s, t]
+  - grapheme: accessing
+    phonemes: [ae, k, s, eh, s, ih, ng]
+  - grapheme: accessible
+    phonemes: [ax, k, s, eh, s, ax, b, el]
+  - grapheme: accident
+    phonemes: [ae, k, s, ih, d, ax, n, t]
+  - grapheme: accidents
+    phonemes: [ae, k, s, ih, d, ax, n, t, s]
+  - grapheme: accidentally
+    phonemes: [ae, k, s, ih, d, eh, n, t, ax, l, iy]
+  - grapheme: accommodate
+    phonemes: [ax, k, oh, m, ax, d, ey, t]
+  - grapheme: accommodates
+    phonemes: [ax, k, oh, m, ax, d, ey, t, s]
+  - grapheme: accommodated
+    phonemes: [ax, k, oh, m, ax, d, ey, t, ih, d]
+  - grapheme: accommodating
+    phonemes: [ax, k, oh, m, ax, d, ey, t, ih, ng]
+# Start at "Accommodation"
